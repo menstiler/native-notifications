@@ -13,7 +13,9 @@
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
     "react-native": "0.79.3",
-    "expo-notifications": "~0.31.3"
+    "expo-notifications": "~0.31.3",
+    "expo-device": "~7.1.4",
+    "expo-constants": "~17.1.6"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
